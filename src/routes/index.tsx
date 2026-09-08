@@ -1,6 +1,8 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { useState } from "react";
 import heritageGoldWatch from "../assets/heritage-gold-watch.jpg";
+import leatherStrap from "../assets/leather-strap.jpg";
+import travelWallet from "../assets/travel-wallet.jpg";
 import {
   ShoppingCart,
   User,
@@ -115,8 +117,7 @@ const products = {
       id: 9,
       name: "Leather Strap",
       price: 39,
-      image:
-        "https://images.unsplash.com/photo-1616353329437-64eb81bb2011?auto=format&fit=crop&w=600&q=80",
+      image: leatherStrap,
       rating: 4.7,
     },
     {
@@ -139,8 +140,7 @@ const products = {
       id: 12,
       name: "Travel Wallet",
       price: 79,
-      image:
-        "https://images.unsplash.com/photo-1627123424574-181ce5171c98?auto=format&fit=crop&w=600&q=80",
+      image: travelWallet,
       rating: 4.9,
     },
   ],
