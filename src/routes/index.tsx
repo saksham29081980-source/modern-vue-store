@@ -1,5 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { useState } from "react";
+import heritageGoldWatch from "../assets/heritage-gold-watch.jpg";
 import {
   ShoppingCart,
   User,
@@ -71,8 +72,7 @@ const products = {
       id: 4,
       name: "Heritage Gold",
       price: 299,
-      image:
-        "https://images.unsplash.com/photo-1619134778701-701fd3d923b9?auto=format&fit=crop&w=600&q=80",
+      image: heritageGoldWatch,
       rating: 4.9,
     },
   ],
