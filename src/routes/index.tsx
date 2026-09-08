@@ -72,7 +72,7 @@ const products = {
       name: "Heritage Gold",
       price: 299,
       image:
-        "https://images.unsplash.com/photo-1542496658-e33a6d0d418f?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1619134778701-701fd3d923b9?auto=format&fit=crop&w=600&q=80",
       rating: 4.9,
     },
   ],
@@ -98,7 +98,7 @@ const products = {
       name: "Fold Air",
       price: 1199,
       image:
-        "https://images.unsplash.com/photo-1616348436168-de43ad8db88d?auto=format&fit=crop&w=600&q=80",
+        "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?auto=format&fit=crop&w=600&q=80",
       rating: 4.7,
     },
     {
